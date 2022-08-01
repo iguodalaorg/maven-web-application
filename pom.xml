@@ -92,17 +92,18 @@
 		</dependency>
 		
 	</dependencies>
+	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.26.133.141:8081/repository/paypal-releases/</url>
+	      <url>http://3.22.51.185:8081/repository/tesla28/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.118.29.219:8081/repository/paypal-snapshots/</url>
+	      <url>http://3.22.51.185:8081/repository/tesla28-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
